@@ -24,7 +24,7 @@ Programador!
 
 #### Alunos
 
-[FOFUXUCO](https://todateen.com.br/wp-content/uploads/2018/04/cachorro-fofo.jpg)
+![FOFUXUCO](https://todateen.com.br/wp-content/uploads/2018/04/cachorro-fofo.jpg)
 
 
 
