@@ -8,7 +8,17 @@ Programador!
 
 # Contatos
 
+1. Twitter:
+2. Email:
+3. Sei la:
+
+- Numero 1
+- Numero 2
+- Numero 3
+
 ## Jogos
+
+**Nome do Jogo** : _ESTE JOGO EH MUITO LEGAL_ `EXEMPLO DE CODIGO`
 
 ### Artes
 
