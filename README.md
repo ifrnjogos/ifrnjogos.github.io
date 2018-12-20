@@ -25,12 +25,14 @@ Programador!
 1. Adicionar apenas Link (url)
 [FOFUXO](https://i.pinimg.com/originals/58/a1/7c/58a17c87559bbe1435f3cea1da626d59.jpg)
 
-2. Transformar em Imagem (url + arquivo)
+2. Adicionar Imagem da Internet (url da imagem)
 ![FOFUXO](https://i.pinimg.com/originals/58/a1/7c/58a17c87559bbe1435f3cea1da626d59.jpg)
 
 3. Adicionar apenas Imagem (arquivo)
 ![imagem1](flying-cat-png-3.png)
-![imagem2](images.jpg)
+
+4. Adicionar Imagem que também é link (arquivo + url)
+[![imagem2](images.jpg)](http://twitter.com)
 
 #### Alunos
 
