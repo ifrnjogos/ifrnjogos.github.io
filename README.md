@@ -22,6 +22,13 @@ Programador!
 
 ### Artes
 
+1. Adicionar um Link (url)
+[Clique aqui](https://todateen.com.br/wp-content/uploads/2018/04/cachorro-fofo.jpg)
+
+2. Adicionar uma Imagem da Internet (url)
+![Clique aqui](https://todateen.com.br/wp-content/uploads/2018/04/cachorro-fofo.jpg)
+
+3. Adicionar uma Imagem do Computador (arquivo)
 
 #### Alunos
 
