@@ -29,6 +29,10 @@ Programador!
 ![Clique aqui](https://todateen.com.br/wp-content/uploads/2018/04/cachorro-fofo.jpg)
 
 3. Adicionar uma Imagem do Computador (arquivo)
+![Imagem1](flying-cat-png-3.png)
+![Imagem2](images.jpg)
+
+4. 
 
 #### Alunos
 
