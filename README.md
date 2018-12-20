@@ -34,11 +34,8 @@ Programador!
 4. Adicionar Imagem que também é link (arquivo + url)
 [![imagem2](images.jpg)](http://twitter.com)
 
-5. Avançado: Adicinar Imagem que também é link e que abre em nova janela
+5. Avançado: Adicionar Imagem que também é link e que abre em nova janela
 <a href="http://twitter.com/" target="_blank">![imagem2](images.jpg)</a>
-
-6. Avançado: Adicinar Imagem que também é link e que abre em nova janela
-![imagem2](images.jpg){:target="_blank"}
 
 #### Alunos
 
