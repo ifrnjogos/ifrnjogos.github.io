@@ -35,6 +35,11 @@ Programador!
 4. Adicionar um Link que seja Imagem (url + arquivo)
 [![Imagem1](flying-cat-png-3.png)](http://Twitter.com)
 
+5. Avançado: Adicionar um Link que seja Imagem
+             e que abra em uma Nova Janela
+<a href="http://Twitter.com" target="_blank"> ![Imagem2](images.jpg) </a>
+
+
 #### Alunos
 
 
