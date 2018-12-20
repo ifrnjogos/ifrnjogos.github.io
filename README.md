@@ -29,7 +29,8 @@ Programador!
 ![FOFUXO](https://i.pinimg.com/originals/58/a1/7c/58a17c87559bbe1435f3cea1da626d59.jpg)
 
 3. Adicionar apenas Imagem (arquivo)
-
+![imagem1](flying-cat-png-3.png)
+![imagem2](images.jpg)
 
 #### Alunos
 
