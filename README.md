@@ -32,7 +32,8 @@ Programador!
 ![Imagem1](flying-cat-png-3.png)
 ![Imagem2](images.jpg)
 
-4. 
+4. Adicionar um Link que seja Imagem (url + arquivo)
+[![Imagem1](flying-cat-png-3.png)](http://Twitter.com)
 
 #### Alunos
 
